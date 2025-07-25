@@ -1,0 +1,9 @@
+1.Merge: Ikki jadvalni ustun odatda kalit ustun – masalan, CustID bo‘yicha yonma-yon qo‘shadi
+Append: Ikki yoki undan ortiq bir xil ustunli jadvallarni ustma-ust qo‘shadi, ya’ni satrlar sonini oshiradi
+
+3.Pivot yordamida ustunlardagi qiymatlarni satrga aylantirsa masalan:
+Product ustunini pivot qilsa, har bir mahsulot alohida ustun bo‘ladi
+Bu kross-tablitsa ko‘rinishi yaratadi.
+
+5.Duplicate: Jadvalning nusxasini oladi
+Reference: Jadvalga havola qiladi — agar asosiy jadval o‘zgarsa, bu ham yangilanadi
