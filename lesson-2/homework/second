@@ -1,0 +1,31 @@
+1. Excel fayllariga
+SQL Server bazasiga
+SharePoint manbasiga
+
+2.Home → Get Data → CSV/Excel tanlash, va kerakli faylni tanlash
+
+3.Yuqori menyudan Refresh tugmasini bosiladi
+
+4..csv (CSV fayl)
+.xlsx (Excel fayl)
+
+5.U ma’lumot ichidagi jadval yoki listlarni va ularning oldindan ko‘rinishini (preview) ko‘rsatadi
+
+6.Transform Data tugmasini bosish
+Qolgan ustunlarga o‘ng tugma → Remove (Olib tashlash)
+Faqat "Product" va "Price" qolish
+So‘ngra Close & Load
+
+7.Power Query oynasida:
+OrderDate ustuniga o‘ng tugma → Change Type → Date
+
+8.Load = Ma’lumotni bevosita yuklaydi
+Transform Data =Ma’lumotni Power Query orqali tozalash imkonini beradi
+
+9.Noto‘g‘ri server nomi yoki login parol noto‘g‘ri kiritilgan bo‘lishi mumkin
+
+10.Transform Data → Data Source Settings → Change Source tugmasi orqali yangisini tanlash
+
+12.Data Source Settings → Change Source orqali yangi faylni tanlash
+
+13.Power Query’da ustunga o‘ng tugma → Change Type → to‘g‘ri  (Text yoki Number) tanlash
